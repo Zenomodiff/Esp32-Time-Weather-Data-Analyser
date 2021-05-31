@@ -1,3 +1,10 @@
+/*feel free to contact
+ * sreeramaj53@gmail.com
+ * www.youtube.com/ZenoModiff
+ * last updated - time 12:18 AM - date 01 june 2021
+ Github Link :-- https://github.com/Zenomodiff/Esp32-Time-Weather-Data-Analyser
+ */
+
 #include <WiFi.h>
 #include <Wire.h> 
 #include <LiquidCrystal_I2C.h>
